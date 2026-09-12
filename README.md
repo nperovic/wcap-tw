@@ -1,12 +1,15 @@
 # wcap-tw
 
-原始 [wcap][] 的台灣正體中文與深色介面擴充版本。
+[wcap][] 的台灣正體中文與深色介面擴充版本。
 
 本專案以 [mmozeiko/wcap][wcap] 為基礎，主要變更如下：
 
 * 為設定視窗與系統匣選單加入完整的深色主題。
 * 新增台灣正體中文介面，並保留英文介面。
 * 可從系統列選單開始及停止錄影。
+
+<img max-width="100%" width="782" height="965" alt="image" src="https://github.com/user-attachments/assets/21f7673f-bf8a-4365-bfb1-60a97533d667" />
+
 
 This project extends [mmozeiko/wcap][wcap] with a complete dark theme, a Traditional Chinese
 (Taiwan) interface, and tray menu controls for starting and stopping recordings.
